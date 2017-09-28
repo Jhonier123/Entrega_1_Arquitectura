@@ -5,5 +5,5 @@ Integrantes:
 
 Laura Pulgarín Bueno,
 Mateo Castro Valencia,
-Jhonier Pineda Quintero \n
-Daniela Taborda
+Jhonier Pineda Quintero,
+Daniela Taborda.
