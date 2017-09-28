@@ -3,7 +3,7 @@
 
 Integrantes:
 
-Laura Pulgarín Bueno
-Mateo Castro Valencia
-Jhonier Pineda Quintero
+Laura Pulgarín Bueno,
+Mateo Castro Valencia,
+Jhonier Pineda Quintero \n
 Daniela Taborda
