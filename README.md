@@ -11,4 +11,4 @@ Daniela Taborda
 
 
 
-Commit 2 (Nota: hasta ahora solo falta test bench de los modulos registro, sumador, union_sr, instruction_memory).
+Procesador 1 - terminado
