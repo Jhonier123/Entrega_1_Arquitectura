@@ -114,10 +114,6 @@ BEGIN
 		nCWP <= '1';
 		NZVC <= "0000";
       wait for 100 ns;
-
-
-      wait for clk_period*10;
-
       wait;
    end process;
 
